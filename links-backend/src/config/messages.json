@@ -1,0 +1,16 @@
+{   "response.json_ok":"Successful request.",
+    "response.json_bad_request":"Bad request.",
+    "response.json_unauthorized":"Unauthorized.",
+    "response.json_not_found":"Not Found.",
+    "response.json_server_error":"Server Error",
+
+    "account.signup.password_confirmation.sny.required": "Confirmação de senha obrigatória",
+    "account.signup.password.string.pattern.base": "Senha fora do padrão!",
+    "account.signup.email_exists": "Email já cadastrado!",
+    "account.signup.sucess": "Cadastrado com sucesso!",
+
+    "account.signin.password_confirmation.sny.required": "Confirmação de senha obrigatória",
+    "account.signin.password.string.pattern.base": "Senha fora do padrão!",
+    "account.signin.email_exists": "Email já cadastrado!",
+    "account.signin.sucess": "Cadastrado com sucesso!"
+}
